@@ -1,4 +1,5 @@
 examfx1
 =======
 
-c:/wrok/workspace/com.examfx.www
+git test repository
+
